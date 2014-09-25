@@ -1,6 +1,10 @@
+/* 
+ * */
 #include <stdio.h>
 
 int main()
 {
-  return 0;
+	printf("Hoje e' 29 de setembro de 2014\n");
+	
+    return 0;
 }
